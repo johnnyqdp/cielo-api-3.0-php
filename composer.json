@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Cielo": "src"
+        }
+    },
+    "name": "johnnyqdp/cielo-api-3.0-php",
+    "description": "Cópia do SDK abandonado da Cielo",
+    "authors": [
+        {
+            "name": "DevelopersCielo"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    }
+}
